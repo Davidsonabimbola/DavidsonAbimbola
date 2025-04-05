@@ -33,6 +33,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=python&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-5A9FD4?style=flat-square&logo=gitbook&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
