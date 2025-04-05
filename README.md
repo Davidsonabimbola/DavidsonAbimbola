@@ -11,7 +11,7 @@
 ---
 
 - 🌱 **Currently Learning:** Machine Learning Models  
-- 📄 **Experience:** [LinkedIn Profile]((https://www.linkedin.com/in/abimbola-davidson/))  
+- 📄 **Experience:** ((https://www.linkedin.com/in/abimbola-davidson/))  
 - 🎮 **Fun Fact:** I'm a Twitch Streamer
 
 ---
