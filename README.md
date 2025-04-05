@@ -13,7 +13,7 @@
 
 ---
 
-- 🌱 **Currently Learning:**  
+- 💡 **Currently Learning:**  
   - Machine Learning Models  
   - Testing AI Models with the **RAGAS** framework  
 
